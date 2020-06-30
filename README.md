@@ -1,9 +1,9 @@
-# Markdown on github
+# Github
 
-1.瑕疵圖像辨識
+* 作品一：南亞瑕疵圖像辨識(code+output)
 
 # Portfolio
 
-* 林口廠全線製程改善：[連結](http://www.dropwizard.io/1.0.2/docs/)
-* AI音樂玩家：[連結](https://rometools.github.io/rome/)
-* Lalamove專案：[連結](https://maven.apache.org/)
+* 作品二：[林口廠全線製程改善](https://drive.google.com/file/d/1ROl6MALf6Sxku-Aj_OPJ2KU6k0MUQe2r/view?usp=sharing)
+* 作品三：[AI音樂玩家](https://drive.google.com/file/d/1sPHqI-rnp3VUAGXb4fgADCb9vLngHXTQ/view)
+* 作品四：[lalamove專案](https://drive.google.com/file/d/1G2ROSwiPBalbIYD9MWYPS1UgKcbJHiCZ/view?usp=sharing)

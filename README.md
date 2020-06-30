@@ -1,6 +1,6 @@
 # Github
 
-* 作品一：南亞瑕疵圖像辨識(code+output)
+* 作品一：南亞瑕疵圖像辨識(PQ42瑕疵圖像分類模型)
 
 # Portfolio
 

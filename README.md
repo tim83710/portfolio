@@ -8,8 +8,11 @@
 ### [作品二]南亞公司專題：[林口廠全線製程改善](https://drive.google.com/file/d/1ROl6MALf6Sxku-Aj_OPJ2KU6k0MUQe2r/view?usp=sharing)
 藉資料視覺化、XGBoost分析找出影響膜面厚薄差及膜面品質之關鍵因子，加以改善後產線收率提升1%。
 
-### [作品三]AI學校期末專題：[AI音樂玩家](https://drive.google.com/file/d/1sPHqI-rnp3VUAGXb4fgADCb9vLngHXTQ/view)
+### [作品三]南亞公司專題：[林口廠製程穩定性監控]()
+使用R語言的Shiny套件建置儀表板，供廠內同仁即時查看製程穩定性及追溯設備異常，節省人力及提升產品品質。
+
+### [作品四]AI學校期末專題：[AI音樂玩家](https://drive.google.com/file/d/1sPHqI-rnp3VUAGXb4fgADCb9vLngHXTQ/view)
 專題分為曲風分類及曲風轉換兩部分，其中將音檔轉為頻譜圖像分類問題後，進行圖像分類，F1-score達93%，並使用CycleGAN+RNN方法轉換曲風，最終專題得到了佳作。
 
-### [作品四]碩士論文：[動態時間校正與模型基底分析高維度時間序列資料](https://drive.google.com/file/d/1OxEm_7tRPMPDGXQYrSfE0LfdG09pPCLf/view?usp=sharing)
+### [作品五]碩士論文：[動態時間校正與模型基底分析高維度時間序列資料](https://drive.google.com/file/d/1OxEm_7tRPMPDGXQYrSfE0LfdG09pPCLf/view?usp=sharing)
 結合了動態時間校正(Dynamic Time Warping)及傳統時間序列分析，在沒有先驗知識下，找出藥品間的相關性。
